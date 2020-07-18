@@ -1,0 +1,23 @@
+{
+  "name": "3d-object-modelling-flipping-spinning-a-coin-bitcoin-experiment",
+  "version": "1.0.0",
+  "description": "3D Object Modelling - Flipping/Spinning a Coin (Bitcoin) Experiment",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenandrebarreiro/3d-object-modelling-flipping-spinning-a-coin-bitcoin-experiment.git"
+  },
+  "keywords": ["quantum", "computing", "information", "theory", "quantumcomputing", "quantuminformation", "quantumtheory", "3dprogramming", "3dmodelling", "3d", "programming", "modelling"],
+  "author": "Rúben André Barreiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubenandrebarreiro/3d-object-modelling-flipping-spinning-a-coin-bitcoin-experiment/issues"
+  },
+  "homepage": "https://github.com/rubenandrebarreiro/3d-object-modelling-flipping-spinning-a-coin-bitcoin-experiment/3d-object-modelling-flipping-spinning-a-coin-bitcoin-experiment.html",
+  "dependencies": {
+    "three": "0.113.2"
+  }
+}
